@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+}
+
+body{
+  /* padding-top:80px; */
+  word-wrap:break-word;
+  background-color: white;
+}
+.color{
+  background-color: transparent !important;
+}
+header{
+  /* border: 2px solid black; */
+ padding: 25px;
+ background-image: url('https://shorthand-social.imgix.net/prod/story/uC069lChsP/media/c49bc1b0165611e78ffc8735fe40b87c/original.jpg?w=1100&h=1100&fit=clip&fm=jpg&q=70&auto=format');
+ background-repeat: no-repeat;
+ /* background-size: auto; */
+ background-size: cover;
+
+  /* background-image: url('https://www.borgenmagazine.com/wp-content/uploads/2017/07/35119694146_3e5db64073_k.jpg');; */
+  height:44em;
+}
+h1,p,a,span{
+  color: black;
+}
+.card{
+  border:1px solid red;
+}
+label{
+  color:black;
+}
+a{
+  color: black;
+}
+h4{
+  color:white;
+}
+img{
+  height: 200px;
+}
+h2{
+  text-align: center;
+}
+.margin{
+      margin-right: 41px;
+}
+/* .margin:hover{
+    background-color: red;
+    border:1px solid blue;
+} */
+.test2{
+  color: white;
+}
+input{
+  display: block;
+}
+.card{
+  display: inline-block;
+  margin-left: 20%;
+  margin-top: 17%;
+}
+/* .col-sm-6{
+  display: none;
+} */
+.fund{
+  width: 90%;
+}
+.formInput{
+  margin-left: 50%;
+}
+/* .test{
+  background-image: url('https://www.ardehali.art/images/articles/ArunaBhat.jpg')!important;
+} */

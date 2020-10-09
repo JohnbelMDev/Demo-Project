@@ -1,0 +1,29 @@
+
+#card{
+  color: red;
+  background-color: white;
+  border: 1px solid red;
+  margin-right: 10%;
+}
+.topcontainer{
+  height: 23rem;
+  background-color: #D3D3D3	;
+  margin-top: 1%;
+}
+.child{
+  padding-top: 4%;
+  margin-left: 20%;
+
+
+}
+.test{
+margin-top: 12%;
+width:18rem;
+display: inline-block;
+}
+h2{
+  margin-left: 12%;
+  padding-top: 9%;
+  color:green
+
+}
